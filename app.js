@@ -46,7 +46,7 @@ function update(){
 	
 	ctx.clearRect(0,0,canvas.width,canvas.height);
 	drawSnake(snake,snakeColor)
-	drawSnake(snake1,"yellow")
+	drawSnake(snake1,"purple")
 	
 	drawFood();
 }
